@@ -1,5 +1,5 @@
 let randomNumber = Math.floor(Math.random() * 100) + 1;
-let attempts = 10; // This will be decremented with each guess
+let attempts = 10; 
 function checkGuess() {
   const inputElement = document.getElementById("guess");
   const buttonElement = document.querySelector("button");

@@ -15,6 +15,7 @@ body {
     padding: 30px; /* Increased padding for a more spacious feel */
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Increased shadow for depth */
+    font-size: larger;
   }
   
   h1 {
